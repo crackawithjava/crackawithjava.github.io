@@ -1,4 +1,4 @@
-/* Created by Igor Penjivrag (www.colorlightstudio.com) - 12.11.2006 */
+
 
 
 body {
@@ -75,7 +75,8 @@ blockquote{
 	top:33px;
 	display:block;
 	float:left;
-	background: url(img/logo.jpg) no-repeat;
+	background: url(img/logo5.png) no-repeat;
+	background-size:contain;
 	padding-left: 40px;
 }
 
