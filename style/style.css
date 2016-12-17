@@ -46,10 +46,10 @@ h6
 a, a:hover
 { outline: none;
   text-decoration: underline;
-  color: #A4AA04;}
+  color: #1a66e0;}
 
 a:hover
-{ text-decoration: none;
+{ text-decoration: underline	;
   color: #5D5D5D;}
 
 .left
@@ -131,7 +131,7 @@ ol li
   color: #A8AA94;}
 
 #menubar
-{ height: 200px;
+{ height: 44px;
   width: 940px;
   margin: 1px auto 0 auto;} 
 
@@ -203,9 +203,8 @@ ul#menu li a:hover
   padding: 0 0 7px 0; }
 
 .sidebar li a, .sidebar li a:hover
-{ padding: 0 0 0 35px;
-  display: block;
-  background: transparent url(link.png) no-repeat left center;} 
+{ padding: 0 0 0 20px;
+  background: transparent url(bullet.png) no-repeat left center;} 
 
 .sidebar li a.selected
 { color: #444;
@@ -229,7 +228,7 @@ ul#menu li a:hover
 #footer
 { width: 916px;
   font: normal 90% arial, sans-serif;
-  height: 28px;
+  height: 8px;
   margin-top: 20px;
   padding: 20px 0 5px 0;
   text-align: center; 
