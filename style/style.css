@@ -131,7 +131,7 @@ ol li
   color: #A8AA94;}
 
 #menubar
-{ height: 44px;
+{ height: 200px;
   width: 940px;
   margin: 1px auto 0 auto;} 
 
@@ -235,7 +235,6 @@ ul#menu li a:hover
   text-align: center; 
   background: transparent;
   color: #333;
-  text-transform: uppercase;
   letter-spacing: 0.1em;}
 
 #footer a, #footer a:hover
